@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Anton. I'm a frontend developer at Tinkoff Travel.
 
 <!--
 **AntonLedyaev/AntonLedyaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
