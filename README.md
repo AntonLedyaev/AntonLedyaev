@@ -10,6 +10,10 @@ My stack:<br/>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
+<br/>
+<br/>
+
+![](https://sun9-33.userapi.com/impf/scgf3r8NtrfD7QkcdHGEFFAweWIYs_9-TNg3vA/VGBLUMPPNZ0.jpg?size=678x791&quality=96&sign=0de89b7ea0762f0ee9ba6f55da2bf845&type=album)
 
 
 <!--
