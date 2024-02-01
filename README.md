@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Anton.
 ## I'm a frontend developer at Tinkoff Travel.
 <br/>
-![](https://sun9-33.userapi.com/impf/scgf3r8NtrfD7QkcdHGEFFAweWIYs_9-TNg3vA/VGBLUMPPNZ0.jpg?size=678x791&quality=96&sign=0de89b7ea0762f0ee9ba6f55da2bf845&type=album)
 <br/>
-My stack:<br/>
+My stack:
+<br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
