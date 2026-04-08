@@ -15,7 +15,7 @@ TypeScript, JavaScript, Rust
 React, SSR, HTML, CSS
 
 **Backend**  
-Node.js (BFF), REST APIs
+Node.js, REST APIs
 
 **Infrastructure & tooling**  
 CI/CD, Kubernetes, testing, monitoring
@@ -29,6 +29,7 @@ CI/CD, Kubernetes, testing, monitoring
 - Rust
 - system design
 - performance and reliability
+- AI, ML, Computer Vision
 
 ---
 
