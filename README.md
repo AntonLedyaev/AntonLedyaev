@@ -39,4 +39,4 @@ CI/CD, Kubernetes, testing, monitoring
 - LinkedIn: https://www.linkedin.com/in/anton-ledyaev-6b9161213/
 
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AntonLedyaev-2005&hide_progress=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AntonLedyaev&hide_progress=true)
