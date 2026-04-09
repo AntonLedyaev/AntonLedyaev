@@ -37,3 +37,6 @@ CI/CD, Kubernetes, testing, monitoring
 
 - Email: anton.a.ledyaev@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/anton-ledyaev-6b9161213/
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonLedyaev&layout=compact)
