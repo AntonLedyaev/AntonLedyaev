@@ -9,7 +9,7 @@ I work on high-traffic web applications and enjoy building systems that are reli
 ## ⚙️ Tech
 
 **Languages**  
-TypeScript, JavaScript, Rust
+TypeScript, JavaScript
 
 **Frontend**  
 React, SSR, HTML, CSS
